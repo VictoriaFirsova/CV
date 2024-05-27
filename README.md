@@ -12,9 +12,8 @@
 
 #### Experience
 
-<details><summary> I have no any relevant experience except pet-projects, but I've improved some soft skills.
-Such as good communication skills, problem-solving, critical thinking, emotional intelligence.
-For more details about work experience, please, expand the list below. </summary>
+<details><summary> Aspiring junior software developer with a passion for continuous learning and problem-solving. Through various pet projects, I have honed my skills in software development.
+I excel in communication and possess strong critical thinking and emotional intelligence. These skills have been demonstrated in my previous management positions, as detailed below </summary>
 <p>
 
 * <details><summary>Ltd "NSK-Sert",
@@ -107,7 +106,7 @@ World economy · (2007 - 2012)
 
 ##### **Project Examples**:
 * Console [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main): Created a parser to collect and display RSS feeds.
-* [Budget Management Application](https://github.com/VictoriaFirsova/budget): Used Django to create a web application that helps users track and analyze their financial data.
+* [Budget Management Application](https://github.com/VictoriaFirsova/budget): developed a web application using Django to help a user track and analyze their financial data. The idea for this project stemmed from a real-life need. My family and I use this application to manage our shared budget effectively.
 
 
 #### Languages
