@@ -55,9 +55,13 @@ I excel in communication and possess strong critical thinking and emotional inte
     Moscow, Russia
 
 * <details><summary> Ltd "Tehservice",
+    
     Account manager
+  
     November 2012 - August 2015 (2 years 10 months)
+  
     Moscow, Russia</summary>
+    
     <p>
 
     * Responsibilities:
