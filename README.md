@@ -110,7 +110,7 @@ World economy · (2007 - 2012)
 
 
 #### Languages
-* English (Limited Working - B1)
+* English (B2)
 * Russian (Native)
 
 
