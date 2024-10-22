@@ -96,9 +96,9 @@ World economy · (2007 - 2012)
 
 #### Tech Skills
 ##### **Programming Languages**:
-* Python: Experience in developing console applications, such as an [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main).
+* Python: Experience in developing console applications, such as an [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main), or API for e-store[API](https://github.com/VictoriaFirsova/FirsovaVV.e-store/tree/master).
 * SQL: Using PostgreSQL for data management and analysis.
-* HTML5, CSS: Basic web development skills.
+* HTML5, CSS, JS: Basic web development skills. First pet project is still in progress [911VET](https://github.com/VictoriaFirsova/911vet)
 
 ##### **Frameworks and Libraries**:
 * Django: Developing web applications, working with models, forms, and templates, such as an [Budget Management Application](https://github.com/VictoriaFirsova/budget).
