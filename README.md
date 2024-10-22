@@ -111,6 +111,8 @@ World economy · (2007 - 2012)
 ##### **Project Examples**:
 * Console [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main): Created a parser to collect and display RSS feeds.
 * [Budget Management Application](https://github.com/VictoriaFirsova/budget): developed a web application using Django to help a user track and analyze their financial data. The idea for this project stemmed from a real-life need. My family and I use this application to manage our shared budget effectively.
+* [API](https://github.com/VictoriaFirsova/FirsovaVV.e-store/tree/master) for e-store
+* Web-site for veterinary clinic [911VET](https://github.com/VictoriaFirsova/911vet)
 
 
 #### Languages
