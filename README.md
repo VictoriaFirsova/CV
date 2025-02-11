@@ -101,7 +101,7 @@ World economy · (2007 - 2012)
 * HTML5, CSS, JS: Basic web development skills. First pet project is still in progress [911VET](https://github.com/VictoriaFirsova/911vet)
 
 ##### **Frameworks and Libraries**:
-* Django: Developing web applications, working with models, forms, and templates, such as an [Budget Management Application](https://github.com/VictoriaFirsova/budget).
+* Django: Developing web applications, working with models, forms, and templates, such as an [Budget Management Application](https://github.com/VictoriaFirsova/budget) or [Cafe Management App](https://github.com/VictoriaFirsova/effectivemobile/tree/master).
 * Pandas: Data analysis and handling large datasets, developing a budgeting application.
 
 ##### **Tools and Technologies**:
@@ -111,7 +111,7 @@ World economy · (2007 - 2012)
 ##### **Project Examples**:
 * Console [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main): Created a parser to collect and display RSS feeds.
 * [Budget Management Application](https://github.com/VictoriaFirsova/budget): developed a web application using Django to help a user track and analyze their financial data. The idea for this project stemmed from a real-life need. My family and I use this application to manage our shared budget effectively.
-* [API](https://github.com/VictoriaFirsova/FirsovaVV.e-store/tree/master) for e-store
+* [API](https://github.com/VictoriaFirsova/FirsovaVV.e-store/tree/master) for e-store or Django App for [Cafe Management](https://github.com/VictoriaFirsova/effectivemobile/tree/master).
 * Web-site for veterinary clinic [911VET](https://github.com/VictoriaFirsova/911vet)
 
 
