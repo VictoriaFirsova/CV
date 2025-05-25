@@ -12,8 +12,8 @@
 
 #### Experience
 
-<details><summary> Aspiring junior software developer with a passion for continuous learning and problem-solving. Through various pet projects, I have honed my skills in software development.
-I excel in communication and possess strong critical thinking and emotional intelligence. These skills have been demonstrated in my previous management positions, as detailed below </summary>
+<details><summary>Aspiring Junior Software Developer with a background in client-facing roles and strong communication skills. Passionate about continuous learning and building real-world solutions. Gained hands-on experience through personal projects involving Python, Django, and PostgreSQL. Eager to transition from account management to a technical role and contribute to impactful software development projects.
+ </summary>
 <p>
 
 * <details><summary>Ltd "NSK-Sert",
