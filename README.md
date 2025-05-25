@@ -12,7 +12,7 @@
 
 #### Experience
 
-<details><summary>Aspiring Junior Software Developer with a background in client-facing roles and strong communication skills. Passionate about continuous learning and building real-world solutions. Gained hands-on experience through personal projects involving Python, Django, and PostgreSQL. Eager to transition from account management to a technical role and contribute to impactful software development projects.
+<details><summary>Aspiring Junior Software Developer with a background in client-facing roles and strong communication skills. Passionate about continuous learning and building real-world solutions. Gained hands-on experience through personal and commercial projects involving Python, Django, JavaScript, ReactJS, and PostgreSQL. Eager to transition from account management to a technical role and contribute to meaningful software development projects.
  </summary>
 <p>
 
