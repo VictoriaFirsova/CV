@@ -1,6 +1,6 @@
 # **Виктория Фирсова**
 
-### Python Developer
+### Python Developer | Backend / Full-stack (Django, React, PostgreSQL)
 
 *Тбилиси, Грузия*
 +995 595 431 099
