@@ -10,113 +10,126 @@
 [GitHub](https://github.com/VictoriaFirsova/)
 
 
-#### Experience
+# Python Backend / AI Automation Developer
 
-<details><summary>Aspiring Junior Software Developer with a background in client-facing roles and strong communication skills. Passionate about continuous learning and building real-world solutions. Gained hands-on experience through personal and commercial projects involving Python, Django, JavaScript, ReactJS, and PostgreSQL. Eager to transition from account management to a technical role and contribute to meaningful software development projects.
- </summary>
-<p>
+**Location:** Georgia (Remote / EU-friendly)  
+**English:** B2  
+**Focus:** Backend systems, APIs, AI automation, data-driven applications  
+**Availability:** Open to full-time / internships / junior+ roles  
 
-* <details><summary>Ltd "NSK-Sert",
-    Quality control, expertise, testing, and certification
+---
 
-    Account manager
+##  Summary
 
-    December 2019 - May 2024 (4 years 5 months)
-    Moscow, Russia</summary>
-    <p>
+Python Developer focused on building backend systems, automation tools, and AI-assisted workflows.
 
-    * Responsibilities:
-        - Conducting negotiations
-        - Coordinating service packages
-        - Formalizing contractual relationships
-        - Sourcing certification bodies and testing laboratories
-        - Supervising conformity assessment procedures
-    </p>
-    </details>
+I work with APIs, databases, and modern Python frameworks to create scalable services, data pipelines, and automation solutions.
 
-* <details><summary> Ltd "Ventart",
+Actively using AI tools (Claude, ChatGPT, Cursor) to accelerate development, prototype faster, and improve code quality.
 
-    Account manager
+Strong interest in AI integrations, backend architecture, and automation systems.
 
-    February 2019 - December 2019 (11 months)
-    Moscow, Russia</summary>
-    <p>
+---
 
-    * Responsibilities:
-        - Duties included communicating with clients, identifying needs, preparing commercial proposals, managing stock reservations or monitoring incoming goods, processing orders to suppliers if goods are unavailable in stock, overseeing shipments, inputting all changes in the client's process or order into 1C, holding meetings and negotiations with clients, and participating in company exhibitions and other events.
+##  Core Skills
 
-    </p>
-    </details>
+### Backend Development
+- Python (3.10+)
+- Django / Django REST Framework
+- FastAPI
+- REST API design & integration
 
-* Ltd "NSK-Sert",
-    Quality control, expertise, testing, and certification
-    Account manager
-    August 2015 - August 2018 (3 years 1 month)
-    Moscow, Russia
+### Data & Storage
+- PostgreSQL
+- Redis (caching / queues basics)
+- SQL optimization (joins, indexes, query planning basics)
 
-* <details><summary> Ltd "Tehservice",
-    
-    Account manager
-  
-    November 2012 - August 2015 (2 years 10 months)
-  
-    Moscow, Russia</summary>
-    
-    <p>
+### Automation & AI
+- AI-assisted development (Claude, ChatGPT, Cursor)
+- API automation workflows
+- Web scraping / data extraction
+- Telegram bots / automation scripts
 
-    * Responsibilities:
-        * maintaining a client database
-        * keeping the database up-to-date
-        * updating and finding new clients (cold calling)
-        * negotiating with company executives
-        * calculating the total cost of obtaining regulatory documentation for product sales in Russia
-        * searching for performers based on criteria
-        * negotiations with performers to establish close cooperation
-        * tracking changes in Russian legislation regarding certification, declaration, and other confirmation of conformity
-maintaining full reporting on work results
+### Tools & DevOps Basics
+- Git (GitHub / GitLab)
+- Docker / Docker Compose
+- Linux basics
+- CI/CD understanding (GitHub Actions basics)
 
-    </p>
-    </details>
+---
 
-</p>
-</details>
+##  Projects
 
+###  Budget App (Django Backend System)
+**Stack:** Django, PostgreSQL, REST API, HTML/CSS (basic frontend)
 
-#### Education
-* EPAM
-Introduction to Python · (2021 - 2021)
+A personal finance tracking system with authentication and structured expense management.
 
-* Stepik
-Python Generation
+**Key Features:**
+- User authentication system
+- CRUD operations for expenses/income
+- Categorization and filtering
+- REST API structure for data handling
 
-* State University of Management
-World economy · (2007 - 2012)
+**Highlights:**
+- Built full backend architecture from scratch
+- Designed database schema
+- Implemented clean MVC structure
 
+ GitHub: https://github.com/VictoriaFirsova/budget
 
+---
 
-#### Tech Skills
-##### **Programming Languages**:
-* Python: Experience in developing console applications, such as an [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main), or API for e-store[API](https://github.com/VictoriaFirsova/FirsovaVV.e-store/tree/master).
-* SQL: Using PostgreSQL for data management and analysis.
-* HTML5, CSS, JS: Basic web development skills. First pet project is still in progress [911VET](https://github.com/VictoriaFirsova/911vet)
+###  AI Automation & Experimental Projects
+**Stack:** Python, APIs, OpenAI/Claude tools, scripts
 
-##### **Frameworks and Libraries**:
-* Django: Developing web applications, working with models, forms, and templates, such as an [Budget Management Application](https://github.com/VictoriaFirsova/budget) or [Cafe Management App](https://github.com/VictoriaFirsova/effectivemobile/tree/master).
-* Pandas: Data analysis and handling large datasets, developing a budgeting application.
+A set of automation experiments using AI tools to generate and optimize code, build scripts, and prototype workflows.
 
-##### **Tools and Technologies**:
-* PostgreSQL: Setting up and managing databases, creating and optimizing queries.
-* Git: Version control, working with branches, merging changes.
+**Includes:**
+- AI-assisted code generation workflows
+- Automation scripts for data handling
+- Small backend utilities and bots
 
-##### **Project Examples**:
-* Console [RSS parser](https://github.com/VictoriaFirsova/RSSreader/tree/main): Created a parser to collect and display RSS feeds.
-* [Budget Management Application](https://github.com/VictoriaFirsova/budget): developed a web application using Django to help a user track and analyze their financial data. The idea for this project stemmed from a real-life need. My family and I use this application to manage our shared budget effectively.
-* [API](https://github.com/VictoriaFirsova/FirsovaVV.e-store/tree/master) for e-store or Django App for [Cafe Management](https://github.com/VictoriaFirsova/effectivemobile/tree/master).
-* Web-site for veterinary clinic [911VET](https://github.com/VictoriaFirsova/911vet)
+ GitHub: https://github.com/VictoriaFirsova
 
+---
 
-#### Languages
-* English (B2)
-* Russian (Native)
+## What I Can Do
+
+- Build backend APIs (Django / FastAPI)
+- Design and maintain databases
+- Create automation systems and bots
+- Integrate third-party APIs
+- Work with AI tools in development pipelines
+- Debug and refactor existing codebases
+
+---
+
+## Current Focus
+
+- Backend engineering (Python ecosystem)
+- AI integration in development workflows
+- Automation systems for business processes
+- Improving system design & scalability skills
+
+---
+
+##  Languages
+
+- Russian — Native  
+- English — B2 (working proficiency)
+
+---
+
+##  Career Goal
+
+To grow as a Python Backend / AI Automation Engineer working on scalable systems, AI-driven products, and real-world automation solutions.
+
+---
+
+##  Contact
+
+GitHub: https://github.com/VictoriaFirsova  
+Telegram: @victoriafirsova
 
 
